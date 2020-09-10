@@ -1,3 +1,3 @@
-## Netflix Clone Application
+## Netflix Clone Application with Trailer Popups
 
-### Built with ReactJS
+### Built with ReactJS, deployed with Firebase
