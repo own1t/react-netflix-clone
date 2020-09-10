@@ -2,6 +2,7 @@ import React from "react";
 
 import requests from "./requests";
 
+import Nav from "./components/Nav";
 import Banner from "./components/Banner";
 import Row from "./components/Row";
 
@@ -10,6 +11,7 @@ import "./App.css";
 function App() {
   return (
     <div className="app">
+      <Nav />
       <Banner />
       <Row
         title="NETFLIX ORIGINALS"
